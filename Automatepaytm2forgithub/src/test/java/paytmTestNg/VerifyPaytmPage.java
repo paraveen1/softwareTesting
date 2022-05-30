@@ -60,8 +60,8 @@ public class VerifyPaytmPage {
 	{
 		
 		
-		String url = driver.getCurrentUrl();
-		String title = driver.getTitle();
+//		String url = driver.getCurrentUrl();
+	String title = driver.getTitle();
 		Assert.assertEquals("Airtel Data Card Bill Payment - Get Best Deals and Cashback Offers at Paytm", title);
 //		if(url.equals("https://paytm.com/datacard-bill-payment/airtel"))
 //		{
