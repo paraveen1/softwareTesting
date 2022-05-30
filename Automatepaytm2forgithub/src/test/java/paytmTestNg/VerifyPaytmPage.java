@@ -54,10 +54,7 @@ public class VerifyPaytmPage {
 		{
 			System.out.println("pass");
 		}
-		else
-		{
-			System.out.println("fails");
-		}
+		
 	}
 	
 	
