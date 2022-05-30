@@ -39,19 +39,6 @@ public class VerifyPaytmPage {
 	@Test
 	public void VerifyRechargeButton()
 	{
-//		String url = driver.getCurrentUrl();
-//		
-//		Assert.assertEquals("https://paytm.com/datacard-bill-payment/airtel", url);
-//		
-//		if(url.equals("https://paytm.com/datacard-bill-paymen"))
-//		{
-//			System.out.println("pass");
-//		}
-//		else
-//		{
-//			System.out.println("fails");
-//		}
-		
 	}
 	
 	
